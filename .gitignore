@@ -1,0 +1,84 @@
+# Ignore all data folders at any level
+# **/data/
+Convolutional_NeuralNetworks/data/
+
+# Python cache files
+**/__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Data directories
+**/data/
+**/Project_2/opencv-pytorch-project-2-classification-round-3/images/
+**/Project_2/opencv-pytorch-project-2-classification-round-3/logs_es/
+**/Project_2/opencv-pytorch-project-2-classification-round-3/models/
+**/Project_2/opencv-pytorch-project-2-classification-round-3/TFlearning_logs_70/
+**/Project_2/opencv-pytorch-project-2-classification-round-3/TFlearning_logs_74/
+**/Project_2/opencv-pytorch-project-2-classification-round-3/TFlearning_logs/
+**/Project_2/opencv-pytorch-project-2-classification-round-3/training/
+**/Project_2/opencv-pytorch-project-2-classification-round-3/validation/
+
+# Model checkpoints and logs
+**/checkpoints/
+**/logs/
+**/models/
+**/cat-dog-panda/
+
+# Ignore tar.gz files
+**/*.tar.gz
+
+# Environment files
+.env
+
+# Temporary files
+*.tmp
+*.temp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Virtual environment directories
+venv/
+.venv/
+
+# Ignore zip files
+**/*.zip
+
+# Ignore image files
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif
+**/*.bmp
+**/*.tiff
+
+# Ignore video files
+**/*.mp4
+**/*.avi
+**/*.mov
+**/*.flv
+**/*.wmv
+**/*.mkv
+
+# Ignore audio files
+**/*.mp3
+**/*.wav
+**/*.aac
+**/*.flac
+**/*.ogg
+**/*.wma
+
+# Ignore model weights files
+**/*.h5
+**/*.hdf5
+**/*.ckpt
+**/*.pth
+**/*.pt
+
+
+
+
+

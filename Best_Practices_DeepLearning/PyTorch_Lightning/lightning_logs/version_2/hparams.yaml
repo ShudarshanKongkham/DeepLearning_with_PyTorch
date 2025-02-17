@@ -1,0 +1,5 @@
+resnet_model_name: resnet18
+weights: DEFAULT
+fine_tune_start: 3
+learning_rate: 0.001
+num_classes: 3
